@@ -20,3 +20,5 @@ nav {
 9) the readability is not good due to the background image. Suggest solutions.
 
 10) how to add blur to a division?
+
+11) how to change font?
