@@ -2,6 +2,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    back
 }
 
 .nav-links {
@@ -60,4 +61,11 @@ button {
     background-color:black;
     color: white;
     border: none;
+}
+
+.hero {
+    background-image: url(images/hero.jpg);
+    height: 50vh;
+    background-size:contain;
+    background-position: center;
 }

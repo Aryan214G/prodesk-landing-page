@@ -14,3 +14,5 @@ nav {
 6) Give example copyright text for footer.
 
 7) How to add social media icons to footer?
+
+8) how to add a background image to my hero section?
