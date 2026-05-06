@@ -14,3 +14,26 @@ nav {
     text-decoration: none;
     color: black;
 }
+
+.services {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    padding: 50px
+}
+
+.card {
+    background-color: #f4f4f4;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* for mobile screens */
+@media (max-width: 550px) {
+
+    .services {
+        grid-template-columns: 1fr;
+    }
+
+}

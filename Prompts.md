@@ -8,3 +8,5 @@ nav {
 }
 
 4) How do I use a A Grid or Flex row to create a services section?
+
+5) why did you use a grid and not flex?
