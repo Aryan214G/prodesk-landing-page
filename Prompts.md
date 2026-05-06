@@ -22,3 +22,5 @@ nav {
 10) how to add blur to a division?
 
 11) how to change font?
+
+12) viewport seems to be adding padding. How do I bypass this?
