@@ -1,1 +1,10 @@
 1) How do I get started with building a navbar in html?
+2) CSS doesn't seem to apply to my html. What could be the issue?
+3) I've added the css link inside my html, but the styling still doesn't apply. I will be sharing my css with you, take a look and tell me if it's correct:
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+4) 
