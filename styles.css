@@ -53,3 +53,11 @@ footer {
 .social-icons a{
     color: aliceblue;
 }
+
+button {
+    padding: 0.75rem 1.25rem;
+    border-radius: 8px;
+    background-color:black;
+    color: white;
+    border: none;
+}
