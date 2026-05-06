@@ -26,3 +26,5 @@ nav {
 12) viewport seems to be adding padding. How do I bypass this?
 
 13) there is this gap at the bottom of the page as seen in the screenshot. What could be causing it?
+
+13) How do I host my site on vercel?
