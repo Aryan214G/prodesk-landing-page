@@ -16,3 +16,7 @@ nav {
 7) How to add social media icons to footer?
 
 8) how to add a background image to my hero section?
+
+9) the readability is not good due to the background image. Suggest solutions.
+
+10) how to add blur to a division?
