@@ -35,5 +35,21 @@ nav {
     .services {
         grid-template-columns: 1fr;
     }
+}
 
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-icons a{
+    color: aliceblue;
 }
